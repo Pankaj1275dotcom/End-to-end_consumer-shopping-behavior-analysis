@@ -76,5 +76,7 @@ A fully interactive Power BI dashboard connected with MySQL that automatically u
 
 ---
 
-## Suggestion
-This project can be further improved by integrating Machine Learning models for personalized recommendations and customer behavior prediction.
+💬 Suggestion & Feedback
+If you find any bugs, have suggestions to improve the code, or see something that could be done better —
+please feel free to open an Issue or drop a comment. I would genuinely appreciate any feedback.
+Every suggestion helps me grow as a developer. Thank you for taking the time to visit this repository! 
